@@ -1,0 +1,3 @@
+*.txt linguist-language=TypeScript
+*.md linguist-language=TypeScript
+*.png linguist-language=TypeScript
