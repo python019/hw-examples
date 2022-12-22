@@ -1,6 +1,6 @@
 <div align="center">
 
-### Beginner 5-dars Vazifasi Ko'rinishi
+### Beginner 6-dars Vazifasi Ko'rinishi
 
 </div>
 
