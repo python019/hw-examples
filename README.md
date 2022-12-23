@@ -1,7 +1,7 @@
 <div align="center">
 
-### Beginner 6-dars Vazifasi Ko'rinishi
+### Beginner 7-dars Vazifasi Ko'rinishi
 
 </div>
 
-<img src="src/b6.png">
+<img src="src/b7.png">
