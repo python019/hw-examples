@@ -1,7 +1,7 @@
 <div align="center">
 
-### Beginner 12-dars 1-qism Vazifasi Ko'rinishi
+### Beginner 12-dars 2-qism Vazifasi Ko'rinishi
 
 </div>
 
-<img src="src/b12-1.png">
+<img src="src/b12-2.png">
