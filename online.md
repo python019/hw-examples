@@ -9,7 +9,7 @@
     --8 Pythonda operatorlar bilan ishlash.
     --9 Collectionlar. List.
     --10 Collectionlar. Tuple.
-    --.1 Dictonry bilan ishlash.
+    --.1 Dictonary bilan ishlash.
     --.2 Shart operatorlari haqida.
     --.3 Shart operatorlari AND.
     --.4 Takrorlanish operatorlari. While haqida.
